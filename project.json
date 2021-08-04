@@ -1,0 +1,8 @@
+{
+  "engine": "cocos2d-html5",
+  "packages": "packages",
+  "version": "2.4.6",
+  "name": "chess-master",
+  "id": "434f7d09-26be-4fd3-9025-cd6bc8464960",
+  "isNew": false
+}
