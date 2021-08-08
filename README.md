@@ -1,2 +1,2 @@
 # chess-master
-chess game based on strong AI
+A chess game based on strong AI
